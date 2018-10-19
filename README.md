@@ -28,3 +28,6 @@ Unity’s capabilities are far higher than the games that represent it, but even
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 - [Engine Research (the one I primarily used)](https://www.quora.com/Why-do-many-AAA-studios-choose-Unreal-over-Unity)
+
+#Can't upload error
+![Upload ERROR](https://github.com/samjerry/ProceduralGeneration/blob/master/error.PNG?raw=true)
