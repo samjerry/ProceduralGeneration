@@ -21,7 +21,7 @@ Unity’s capabilities are far higher than the games that represent it, but even
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | dingen doen |
+|week 1 |
 |week 2 |
 
 ## Sources
